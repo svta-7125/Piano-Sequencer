@@ -1,5 +1,9 @@
 ## Changelog:
 
+### Piano Sequencer v1.1.2:
+
+Fixed complete crashing due to an import issue in version 1.1.1
+
 ### Piano Sequencer v1.1.1:
 
 Added full bpm integration for all functions.
