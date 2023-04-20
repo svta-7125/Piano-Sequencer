@@ -6,6 +6,8 @@ Added an edit option that allows you to open the songs in notepad.
 
 Done exception handling to prevent unexpected crashes.
 
+Updated application icon.
+
 ### Piano Sequencer v1.1.2:
 
 Fixed complete crashing due to an import issue in version 1.1.1
