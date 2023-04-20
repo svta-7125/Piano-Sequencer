@@ -14,7 +14,7 @@ Fixed complete crashing due to an import issue in version 1.1.1
 
 Added full bpm integration for all functions.
 
-Saved now have their own custom bpm.
+Saved songs can now have their own custom bpm.
 
 Fixed an issue of mid octave note 'e' was mapped with incorrect frequency.
 
