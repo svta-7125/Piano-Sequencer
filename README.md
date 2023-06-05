@@ -12,7 +12,7 @@ Here, c4 is a 4 beat C major note in the middle octave, c!4 is a 4 beat C major 
 You can also save and run songs directly using the sequencer. Enter the bpm and type in the song like you normally would to play it. Enter a name for it and it is now saved.
 To run a song, simply type in the name of the song you used to save it.
 ##### Note:
-The files are saved in .txt format in "%USERPROFILE%\Piano_Sequencer".
+The files are saved in .txt format in "%USERPROFILE%\Piano_Sequencer". Just paste the path in the search box or the run dialog box.
 ## Changelog:
 Full changelog can be found here https://github.com/svta-7125/Piano-Sequencer/blob/main/changelog.md
 ## Downloads and compatibility:
