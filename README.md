@@ -1,6 +1,6 @@
 # Piano-Sequencer
 Type in a song and let the magic unfold!
-### Modules Used:
+### Python Modules Used:
 Winsound (Works only on windows), os, sys, time
 ### How to use: 
 To type one note, type the note followed by the time period. Use '!' or '^' to play lower or a higher octave respectively.  
