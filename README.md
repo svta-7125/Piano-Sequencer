@@ -23,3 +23,8 @@ Issues found when running it in Windows 8.1 and Windows 7.
 Can run in linux distros using WINE(may not be audible).
 ## Updates:
 The app is usually updated regularly. Make sure to stop by and check for the latest update.
+## Build your own version of Piano Sequencer:
+You can build your own executable using any one of the python files given above. Required modules are Pyinstaller. Use Auto-py-to-exe for a GUI.  
+  
+  
+  Use 1229.ico for setting the icon pic for the final .exe
