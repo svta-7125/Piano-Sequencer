@@ -20,7 +20,7 @@ Go to the release tab and download the latest release. Make sure you select the 
   
 All releases are tested in Windows 11 22H2 and should work in Windows 10 and Windows 11.  
 Issues found when running it in Windows 8.1 and Windows 7.  
-Can run in linux distros using WINE(may not be audible).
+Can run in linux distros using WINE(may not be audible).  
 A full - fledged linux port coming soon.... 
 ## Updates:
 The app is usually updated regularly. Make sure to stop by and check for the latest update.
