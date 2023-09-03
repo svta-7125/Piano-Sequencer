@@ -107,7 +107,7 @@ Enter two characters, the first one represents the background color and the seco
         try: os.system(cmd)
         except: print("Failed")'''
 print('''************************************************************************************************************************
-******                                              Piano Sequencer v1.2.1                                        ******
+******                                              Piano Sequencer v1.2.2                                        ******
 *****************************************************************************************by svta-7125*******************
 
 
