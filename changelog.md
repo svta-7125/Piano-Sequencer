@@ -1,4 +1,10 @@
 # Changelog:
+## Piano Sequencer v1.2.1:  
+Optimized menu layout to remove clutter.  
+Added two more options.  
+  
+Will replace the menu based system with something better later.  
+An automatic updater in the works... 
 ## Piano Sequencer v1.2:
 Added an edit option that allows you to open the songs in notepad.  
 Done exception handling to prevent unexpected crashes.  
